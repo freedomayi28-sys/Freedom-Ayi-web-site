@@ -1,4 +1,5 @@
 <!Doctype html>
+<html>
 <head><title>FREEDOM AYI WEB SITE
 <body bgcolor="black">
   

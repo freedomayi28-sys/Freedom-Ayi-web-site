@@ -5,7 +5,6 @@
 </head>
 
 
-
 <body>
 <body bgcolor="gray">
 <font="white" size="7" face="algerian"><b>DKM KLODING></font>

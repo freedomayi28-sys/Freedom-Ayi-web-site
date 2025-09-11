@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+<head>
+<title>BLESSING</title>
+</head>
+<body>
+<h1>MY BASIC HTML TAGS</h1>
+<hr color="red" width="70%">
+<h1>unordered list</hr>
+<ul> type="circle"><font size="6" color ="red">
+<li>tomato</li>
+<li>onions</li>
+<li>ginger</li>
+<li>galic</li>
+<lipeper></li>
+</ul>
+<a href="URL of the yor are linking to"> the best girl</a>
+<hr color="red" width="70%">
+
+
+</body>
+</html>
